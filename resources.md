@@ -1,4 +1,4 @@
-# Curated Programming Resources
+# Programming Related Resource
 
 ## Table of contents 
 
